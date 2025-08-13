@@ -26,6 +26,19 @@ Gosto de aprender, experimentar e criar soluções que façam a diferença.
 
 </div>
 
+## 📚 O que estou aprendendo
+<div align="left">
+
+![n8n](https://img.shields.io/badge/-n8n-EA4B8B?style=for-the-badge&logo=n8n&logoColor=white)
+![IA](https://img.shields.io/badge/-Inteligência%20Artificial-4B8BBE?style=for-the-badge&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DevOps](https://img.shields.io/badge/-DevOps-FF6F00?style=for-the-badge&logo=gitlab&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
 
 ---
 
